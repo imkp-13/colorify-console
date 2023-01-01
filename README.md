@@ -1,0 +1,1 @@
+A NPM package to colorify console.
