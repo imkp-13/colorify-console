@@ -1,6 +1,6 @@
 {
   "name": "colorify-console-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package to color console.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "Kaushal K Pandey",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/imkp-13/colorify-console/issues"
   },
