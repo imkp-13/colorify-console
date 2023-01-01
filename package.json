@@ -1,5 +1,5 @@
 {
-  "name": "colorify-console",
+  "name": "colorify-console-logger",
   "version": "1.0.0",
   "description": "A package to color console.",
   "main": "lib/index.js",
